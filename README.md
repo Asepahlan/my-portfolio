@@ -62,8 +62,7 @@ portfolio-website/
 │       ├── asep.png       # Profile photo (optimized)
 │       ├── favicon-16x16.png  # Favicon kecil
 │       ├── favicon-32x32.png  # Favicon medium
-│       ├── apple-touch-icon.png # Icon untuk iOS
-│       └── site.webmanifest   # PWA manifest
+│       └── apple-touch-icon.png # Icon untuk iOS
 ```
 
 ## 🚀 Instalasi & Setup
@@ -77,7 +76,7 @@ portfolio-website/
 1. **Clone atau Download Project**
    ```bash
    # Clone repository (jika menggunakan Git)
-   git clone [repository-url]
+   git clone https://github.com/username/portfolio-website.git
    cd portfolio-website
 
    # Atau download dan extract file ZIP
